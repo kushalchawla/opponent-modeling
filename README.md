@@ -2,6 +2,8 @@
 
 This repository contains the code for **'Opponent Modeling in Negotiation Dialogues by Related Data Adaptation'**.
 
+This work has been published at Findings of NAACL 2022.
+
 # Setup
 
 All code was developed with Python 3.0 on CentOS Linux 7, and tested on Ubuntu 16.04. In addition, we used PyTorch 1.0.0, CUDA 9.0, and Visdom 0.1.8.4.
