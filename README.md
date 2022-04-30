@@ -76,7 +76,7 @@ The evaluation script creates a complete profile with a number of metrics at ```
 
 # References
 
-If you use data or code in this repository, please cite our paper: 
+If you use the code in this repository, please cite our paper: 
 ```
 @inproceedings{chawla2022opponent,
   title={Opponent Modeling in Negotiation Dialogues by Related Data Adaptation},
