@@ -15,7 +15,7 @@ cudatoolkit 11.1.74\
 pytorch-lightning 1.4.8\
 transformers 4.11.0
 
-2. This code has also been tested on a single A100 GPU with the available latest installations as of April 30, 2022, based on the commands below. This testing used Python 3.9.12, Pytorch 1.11.0, Pytorch Lightning 1.6.2, and transformers 4.18.0.
+2. This code has also been tested on a single A100 GPU with the available latest installations based on the commands below. This testing used Python 3.9.12, Pytorch 1.11.0, Pytorch Lightning 1.6.2, and transformers 4.18.0.
 
 In order to quickly set up a working environment, follow the steps below:
 
