@@ -2,7 +2,7 @@
 
 This repository contains the code for **'Opponent Modeling in Negotiation Dialogues by Related Data Adaptation'**.
 
-Our work has been published at Findings of NAACL 2022.
+Our work has been accepted at Findings of NAACL 2022.
 
 Please direct all queries to the first author: Kushal Chawla (kchawla@usc.edu).
 
